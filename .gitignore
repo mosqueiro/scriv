@@ -61,7 +61,7 @@ libconftest.dylib*
 *.pyc
 *.o
 *.o-*
-*.patch
+
 .scriv
 *.a
 *.pb.cc
